@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1676670605 source:/home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab08/prj/Diachenko_task/main.cpp
+	<iostream>
+	<iomanip>
+	"ModulesDiachenko.h"
+
+1676658159 /home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab08/prj/ModulesDiachenko.h
+

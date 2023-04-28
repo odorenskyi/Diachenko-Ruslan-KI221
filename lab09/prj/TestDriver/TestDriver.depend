@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682681076 source:/home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab09/prj/TestDriver/main.cpp
+	<iostream>
+	"ModulesDiachenko.h"
+
+1682627302 /home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab09/prj/TestDriver/ModulesDiachenko.h
+

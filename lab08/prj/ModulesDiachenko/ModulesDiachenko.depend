@@ -1,4 +1,10 @@
 # depslib dependency file v1.0
-1682628021 source:/home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab08/prj/ModulesDiachenko/main.cpp
+1684780866 source:/home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab08/prj/ModulesDiachenko/main.cpp
 	<cmath>
+	<iostream>
+	<fstream>
+	<string>
+	<algorithm>
+	<map>
+	<bitset>
 

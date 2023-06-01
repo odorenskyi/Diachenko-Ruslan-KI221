@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685627862 source:/home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab11/prj/prj_11_Kichura/main.cpp
+	<codecvt>
+	<locale>
+	<iostream>
+	"ModulesKichura.h"
+	"ModulesDiachenko.h"
+	"ModulesSprynchan.h"
+

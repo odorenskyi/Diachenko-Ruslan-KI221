@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685986643 source:/home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab12/prj/Teacher/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<sstream>
+	"../ModulesDiachenko.h"
+
+1685983237 /home/ruslandiachenko/Desktop/GIT/Diachenko-Ruslan-KI221/lab12/prj/ModulesDiachenko.h
+	<cmath>
+
